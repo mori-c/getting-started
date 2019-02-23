@@ -13,7 +13,7 @@ Setup Duration: 1.5 hours
     * [Pushing to Git returning Error Code 403 fatal](https://stackoverflow.com/questions/27996017/pushing-to-git-returning-error-code-403-fatal#answer-27996048): HTTP request failed
     * [Git Client Configuration: .ssh/config](https://www.a2hosting.com/kb/developer-corner/version-control-systems1/configuring-a-git-client#Mac-OS-X-and-Linux)
     * [`git credential-osxkeychain` Identification Clarification](http://burnedpixel.com/blog/setting-up-git-and-github-on-your-mac/#gitidentification)
-    * Update [`git -v`](https://git-scm.com/downloads) & [OpenSSH `ssh -V`](https://www.openssh.com/) versions when connecting with a username and password
+    * Update [`git -v`](https://git-scm.com/downloads) & [`ssh -V`](https://www.openssh.com/) versions by encrypting username and password on connecting
   
 **Cheatsheets**:
 * [Interactive Git Structure Gantt-Style Visualizer](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)
