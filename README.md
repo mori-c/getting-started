@@ -17,4 +17,4 @@ Setup Duration: 1.5 hours
   
 **Cheatsheets**:
 * [Interactive Git Structure Gantt-Style Visualizer](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)
-* [Github's GIT CHEAT SHEET](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) - PDF
+* [Github's PDF Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
