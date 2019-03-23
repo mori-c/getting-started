@@ -1,6 +1,11 @@
 # Getting Started
 
-~ TOC ~
+Personal reference guide for getting projects started via templating or a resource go-to guide
+WIP
+
+
+[TOC]
+placeholder section
 
 ---
 
