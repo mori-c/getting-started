@@ -14,9 +14,32 @@ placeholder section
 
 1. [Syntax Guide](https://daringfireball.net/projects/markdown/syntax#list): Daring Fireball
 2. Video Image Placeholder
+Embed Properties
+```
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TFXcVlKqPlM" target="_blank">
+    <img src="http://img.youtube.com/vi/TFXcVlKqPlM/0.jpg" alt="Lecture Class Probabilistic Programming" width="400" height="260" border="0" />
+</a> 
+```
+Markdown
 ```
 [![Image ALT Keywords](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
+[![Probabilistic Programming](http://img.youtube.com/vi/TFXcVlKqPlM/0.jpg)](http://www.youtube.com/watch?v=TFXcVlKqPlM&ap=%3D18%2526fmt)
+> YouTube URL code properties with [stereo](https://www.blogsolute.com/secret-codes-youtube-url-fun-tweaking-videos/9291/) example
+
+#### Stereo
+
+480 x270
+```
+url&ap=%3D18%2526fmt
+```
+1280 x 720
+```
+url&ap=%3D22%2526fmt
+```
+
+<br>
+<br>
 
 #### LaTex
 1. [VS Code Math Reference](https://github.com/goessner/mdmath)
