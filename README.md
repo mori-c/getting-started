@@ -7,9 +7,23 @@ WIP
 [TOC]
 placeholder section
 
----
 
-### Git Securely from Vulnerabilities
+
+---
+## Markdown
+
+1. [Syntax Guide](https://daringfireball.net/projects/markdown/syntax#list): Daring Fireball
+
+#### LaTex
+1. [VS Code Math Reference](https://github.com/goessner/mdmath)
+2. [iPython MathJax](https://gist.github.com/cyhsutw/d5983d166fb70ff651f027b2aa56ee4e)
+3. [GitLab Math md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/user/markdown.md#math)
+
+
+## Git
+
+#### Vulnerabilities & Security
+
 Setup Duration: 1.5 hours
 
 1. [Setup git on the CLI to use 2FA with GitHub](https://gist.github.com/ateucher/4634038875263d10fb4817e5ad3d332f)
