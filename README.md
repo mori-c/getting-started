@@ -19,6 +19,7 @@ placeholder section
 2. [iPython MathJax](https://gist.github.com/cyhsutw/d5983d166fb70ff651f027b2aa56ee4e)
 3. [GitLab Math md](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/user/markdown.md#math)
 
+<br>
 
 ## Git
 
