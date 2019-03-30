@@ -13,6 +13,10 @@ placeholder section
 ## Markdown
 
 1. [Syntax Guide](https://daringfireball.net/projects/markdown/syntax#list): Daring Fireball
+2. Video Image Placeholder
+```
+[![Image ALT Keywords](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+```
 
 #### LaTex
 1. [VS Code Math Reference](https://github.com/goessner/mdmath)
