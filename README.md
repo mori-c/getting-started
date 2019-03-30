@@ -25,7 +25,7 @@ Markdown
 [![Image ALT Keywords](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
 [![Probabilistic Programming](http://img.youtube.com/vi/TFXcVlKqPlM/0.jpg)](http://www.youtube.com/watch?v=TFXcVlKqPlM&ap=%3D18%2526fmt)
-> YouTube URL code properties with [stereo](https://www.blogsolute.com/secret-codes-youtube-url-fun-tweaking-videos/9291/) example
+> YouTube URL [embedded code](http://leaderswest.com/2012/10/10/youtube-embed-options-can-make-your-videos-look-less-youtube-y/) properties with [stereo](https://www.blogsolute.com/secret-codes-youtube-url-fun-tweaking-videos/9291/) example
 
 #### Stereo
 
